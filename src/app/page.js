@@ -36,7 +36,7 @@ export default function Home() {
           <ul className='text-gray-700 mb-4 space-y-2'>
             <li>
               <a
-                href='https://github.com/sahandghavidel/next-auth-app'
+                href='https://github.com/Shankar-WebDev/next-auth'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='flex items-center text-blue-500 hover:underline'
